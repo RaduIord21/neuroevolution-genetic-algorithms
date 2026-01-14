@@ -1,0 +1,13 @@
+{
+  "generations_completed": 100,
+  "population_size": 50,
+  "environment": "LunarLander-v3",
+  "best_fitness": 127.18909516524998,
+  "input_size": 8,
+  "hidden_sizes": [
+    16,
+    16
+  ],
+  "output_size": 4,
+  "timestamp": "2026-01-14T13:32:12.260688"
+}
