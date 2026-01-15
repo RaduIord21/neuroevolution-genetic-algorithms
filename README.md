@@ -182,18 +182,3 @@ python test_genetic_algorithms.py
 python test_trained_agent.py
 ```
 
-## Future Improvements
-
-- [ ] Support for recurrent neural networks (LSTM, GRU)
-- [ ] Multi-objective optimization
-- [ ] Parallel fitness evaluation
-- [ ] Additional genetic operators (gene duplication, deletion)
-- [ ] Integration with more complex environments
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Author
-
-Radu Iord
